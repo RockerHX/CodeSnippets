@@ -1,2 +1,2 @@
-# SwiftCodeSnippets
-RockerHX's Swift Code Snippets.
+# CodeSnippets
+RockerHX's Code Snippets.
