@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>Swift Warning TODO</string>
+	<string>Swift MARK</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// Warning TODO: &lt;#warning tips#&gt;</string>
+	<string>// MARK: - &lt;#marks#&gt; -</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4C387267-AB1F-4C0B-A328-321FC7F97596</string>
+	<string>8657BAEA-017E-42AD-9EB3-EACFE6E9CACA</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Swift Warning TODO</string>
+	<string>Swift MARK</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
